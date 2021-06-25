@@ -1,7 +1,11 @@
 bild: Kabu.png
 created: 20210617084615779
-modified: 20210617084643680
+modified: 20210625111634538
 tags: Person
 title: Kabu
+tmap.edges: {"19627563-b27c-484c-9c91-db5bd3a71d6e":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown_dashed"}}
 tmap.id: 6e081545-235d-4dc4-9dd1-c8ae81a0bfea
 type: text/vnd.tiddlywiki
+
+* ein geflügelter Kobold
+* Mitglied der Horde von Kobolden unter [[Emrir]], die den Abenteurern folgt

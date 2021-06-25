@@ -1,10 +1,11 @@
 bild: Miles Burton (Tom).jpg
 caption: Miles Burton
 created: 20210222133755749
-modified: 20210222134627110
+modified: 20210625093938345
 spieler: Tom
 tags: Spieler
 title: Miles
+tmap.edges: {"2887cff3-9d48-488e-8b57-4009c2a267b7":{"to":"55bb1086-e088-43ff-ac85-b470caf31e1d","type":"OP_Mitglied"},"d0cff801-7b5e-4fb5-9d02-0c39f0ad0c12":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"}}
 tmap.id: 4523cbd6-4fac-4aae-803c-866863ecc869
 type: text/vnd.tiddlywiki
 

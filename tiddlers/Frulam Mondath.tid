@@ -1,10 +1,12 @@
 bild: Frulam Mondath.jpg
 created: 20210222134054459
 datum: .1489-06-05
-modified: 20210617080434403
+modified: 20210625111559732
 tags: Person Drachenkult
 title: Frulam Mondath
+tmap.edges: {"283c583c-26cf-490f-b210-6339ac9df021":{"to":"54f8d5d8-d27d-492a-9b3e-156e4761c6a7","type":"OP_Mitglied"}}
 tmap.id: 4d66d5f0-90aa-4b3d-9751-2f058b8a115a
 type: text/vnd.tiddlywiki
 
-Eine der Anführerinnen vom [[Raider Camp|Kapitel 2 - Raider Camp]]. Sie starb druch die Abenteurer.
+* eine Anführerin vom [[Drachenkult|Kapitel 2 - Raider Camp]]
+* im Kampf mit den Abenteurern getötet

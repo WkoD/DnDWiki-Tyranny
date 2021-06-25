@@ -1,9 +1,10 @@
 bild: Agathos (Norm).png
 caption: Agathos
 created: 20210222133650023
-modified: 20210222133729675
+modified: 20210625093930373
 spieler: Norman
 tags: Spieler
 title: Agatos
+tmap.edges: {"67c28145-181f-4cc0-bdab-92b13e695733":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"}}
 tmap.id: a93cfaaa-f288-4130-a3a2-a35f6dc5d0bb
 type: text/vnd.tiddlywiki

@@ -1,9 +1,13 @@
 bild: Langdedrosa Cyanwrath.jpg
 created: 20210222134116831
-modified: 20210617080550600
+datum: .1489-06-05
+modified: 20210625111727799
 tags: Person Drachenkult
 title: Langdedrosa Cyanwrath
+tmap.edges: {"92de4307-674f-447f-8f39-4ee5dfd9748e":{"to":"54f8d5d8-d27d-492a-9b3e-156e4761c6a7","type":"OP_Mitglied"}}
 tmap.id: 6dd4330c-c5ca-4bc8-bfe7-9ceaaf4ff534
 type: text/vnd.tiddlywiki
 
-Hat [[Miles]] fast getötet und ihm eine Narbe auf der Brust verpasst. Später versprach ihm [[Miles]] ein faires Duell, jedoch [[griffen die Abenteurer gemeinsam an und töteten ihn|Kapitel 3 - Dragon Hatchery]].
+* [[Miles]] fast getötet und ihm eine Narbe auf der Brust verpasst
+* starb im [[Kampf gegen die Abenteurer|Kapitel 3 - Dragon Hatchery]]
+** [[Miles]] versprach ein faires Duell, jedoch griffen alle gemeinsam an
