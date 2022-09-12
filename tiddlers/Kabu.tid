@@ -3,7 +3,7 @@ created: 20210617084615779
 modified: 20210625111634538
 tags: Person
 title: Kabu
-tmap.edges: {"19627563-b27c-484c-9c91-db5bd3a71d6e":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown_dashed"}}
+tmap.edges: {"19627563-b27c-484c-9c91-db5bd3a71d6e":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown_dashed"},"c065a560-9d41-4e1d-972b-4c04adbccc16":{"to":"08a110da-2923-4aa0-8871-64f0952fadb3","type":"OP_Mitglied"}}
 tmap.id: 6e081545-235d-4dc4-9dd1-c8ae81a0bfea
 type: text/vnd.tiddlywiki
 

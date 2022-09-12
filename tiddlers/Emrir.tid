@@ -3,7 +3,7 @@ created: 20210222134011071
 modified: 20220104135810044
 tags: Person
 title: Emrir
-tmap.edges: {"8f6032fc-5ab9-4222-bd94-f187868c806d":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown_dashed"}}
+tmap.edges: {"8f6032fc-5ab9-4222-bd94-f187868c806d":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown_dashed"},"492e8245-8654-42e2-bd6f-d5e0e067d6ab":{"to":"08a110da-2923-4aa0-8871-64f0952fadb3","type":"O_Anfuehrer"}}
 tmap.id: d834a16c-aa99-4a2d-b53c-d6127783cfd3
 type: text/vnd.tiddlywiki
 
