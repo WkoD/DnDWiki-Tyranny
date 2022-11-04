@@ -1,9 +1,9 @@
 bild: Bran Keyleth (Toni).png
 caption: Bran Keyleth
 created: 20210222133732156
-modified: 20220104141845861
+modified: 20221104132349559
 spieler: Toni
-tags: Spieler
+tags: Spieler [[Orden der gepanzerten Faust]]
 title: Bran
 tmap.edges: {"e4d56fbb-ec90-4e7c-93ef-cc4b52d91c15":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"},"7cd2de7e-16b5-47dd-9352-e890e027746a":{"to":"b0e4c6a7-cdea-44b8-8c4a-4a19972e6df4","type":"OP_Mitglied"}}
 tmap.id: 92e08c3d-b584-4973-bb98-ac47fe6d4069
