@@ -1,7 +1,8 @@
 bild: Orden der gepanzerten Faust.jpg
+color: #ff8000
 created: 20210625092749282
-modified: 20210625093748668
-tags: Organisation
+modified: 20221104132341552
+tags: Organisation [[Orden der gepanzerten Faust]]
 title: Orden der gepanzerten Faust
 tmap.edges: {"88880855-618d-443d-bd32-43146a65214a":{"to":"6cb00f3a-2415-4b34-b1df-ac764a87e1ee","type":"OO_Buendnis"},"0cd91ec0-0ffe-4846-8eac-4373a9a556ea":{"to":"54f8d5d8-d27d-492a-9b3e-156e4761c6a7","type":"OO_Konflikt"}}
 tmap.id: b0e4c6a7-cdea-44b8-8c4a-4a19972e6df4

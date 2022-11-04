@@ -1,10 +1,12 @@
 bild: Ontharr Frume.jpg
 created: 20210625095816302
-modified: 20210625111923354
-tags: Person
+modified: 20221104133151510
+tags: Person [[Orden der gepanzerten Faust]]
 title: Ontharr Frume
+tmap.edges: {"dd7a5418-f436-4875-b79f-ebf60f71ba7a":{"to":"b0e4c6a7-cdea-44b8-8c4a-4a19972e6df4","type":"OP_Mitglied"}}
 tmap.id: 1064ca8a-9074-46ce-807b-6763789d2c07
 type: text/vnd.tiddlywiki
 
 * Mitglied vom [[Orden der gepanzerten Faust]]
 * trinkfest und immer für einen Kampf zu haben
+* Befreundet mit [[Emilia Palmer]]
