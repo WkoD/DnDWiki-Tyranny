@@ -31,6 +31,15 @@ The Rise of Tiamat), gespielt auf Deutsch. Setting: Forgotten Realms (Sword Coas
   Render-Bequemlichkeit, kein Zugriffsschutz - das Repo ist öffentlich).
 - **Kampagnenspezifische Ordner/Assets:** <!-- aktuell keine zusätzlichen
   Unterordner unter images/ -->
+- **Erzählstil (Tempus):** durchgängige Vergangenheitsform (Präteritum) als
+  Chronik-Stil - auch für andauernde Eigenschaften/Fakten (z. B. "war ein
+  Mensch" statt "ist ein Mensch"); impliziert **nicht** Tod/Nicht-Existenz.
+  Ausnahmen, die im Ursprungstempus bleiben: wörtliche Rede/Zitate, primäre
+  In-World-Dokumente (Tagebücher, Briefe, Ich-Perspektive-"Visionen"), rot
+  umrandete TBC-Callout-Boxen (`@@.tc-tiddler-frame ... @@`), sowie
+  Trivia-Quiz-Frage/Antwort-Blöcke (wie zitierter Spielkarten-Text behandelt).
+  Ich-Perspektive-Tabellen wie Personality Traits/Ideals/Bonds/Flaws sind
+  **nicht** ausgenommen - werden trotz Ich-Form ins Präteritum gesetzt.
 
 ## Story-Planungs-Workflow für Claude
 
