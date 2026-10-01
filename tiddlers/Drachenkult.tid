@@ -1,11 +1,11 @@
-bild: Drachenkult.png
+alliance: Lennithon
 color: #ff8000
 created: 20210625093455290
+enmity: Harper [[Orden der gepanzerten Faust]]
+image: Drachenkult.png
 modified: 20210625111957228
 tags: Organisation
 title: Drachenkult
 type: text/vnd.tiddlywiki
-feindschaft: Harper [[Orden der gepanzerten Faust]]
-allianz: Lennithon
 
 TBC
