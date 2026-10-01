@@ -51,11 +51,11 @@ oder aus dieser Datei planen:**
 
 - **Fraktionen / Orte / NPCs:** Tiddler mit dem jeweiligen Typ-Tag. Startpunkte:
   `Index` und die Kategorie-Hub-Tiddler `Person`, `Location`, `Organisation`, `Event`,
-  `Adventure`, ... (Shadows aus `dndwiki-core`).
+  `Campaign`, ... (Shadows aus `dndwiki-core`).
 - **Spielerstufe:** Body von `PlayerLevel.tid`.
 - **Offene Plot-Fäden:** Suche nach dem Offene-Punkte-Snippet (`@@.tc-tiddler-frame`) in
   `Event`-Tiddlern.
-- **Kampagnenstruktur / Handlungsbögen (Kapitel des Abenteuers):** `Adventure`-getaggte Tiddler.
+- **Kampagnenstruktur / Handlungsbögen (Kapitel des Abenteuers):** `Campaign`-getaggte Tiddler.
 - **Spielercharaktere:** `Player`-getaggte Tiddler bzw. der `Player`-Hub.
 
 *Dann* konsistente Vorschläge machen, die an bestehende Tiddler/Tags anknüpfen
