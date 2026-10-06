@@ -26,9 +26,8 @@ The Rise of Tiamat), gespielt auf Deutsch (Wiki-Sprache `de-DE`). Setting: Forgo
 - **Offene Punkte/Plot-Fäden:** das Snippet „Offene Punkte“ (`open-items`) wird inline in
   Ereignis-Tiddlern eingefügt (rot umrandete Callout-Box); wird
   entfernt/verkleinert, sobald der Strang aufgelöst ist. Kein zentraler Tracker.
-- **Karten zu Orten:** Orte haben oft einen begleitenden Karten-Tiddler `<Name>/Map`
-  (Datei `<Name>_Map.tid`, Tag `Map`, Feld `image`) neben dem Haupt-Tiddler `<Name>.tid`;
-  er erscheint im Ort als Tab „Karte“.
+- **Karten zu Orten:** keine Unter-Tiddler. Das Kartenbild steht im Feld `map` des Orts
+  (Bild aus `images/map/`) und erscheint im Ort als Tab „Karte“.
 - **Spieler-Sichtbarkeit:** der Spieler-Login auf dem `Player`-Hub
   (`$:/state/dndwiki/player`) wird genutzt, um am
   Tisch zwischen DM- und Spieler-Perspektive zu wechseln (reine
@@ -53,6 +52,9 @@ oder aus dieser Datei planen:**
 - **Fraktionen / Orte / NPCs:** Tiddler mit dem jeweiligen Typ-Tag. Startpunkte:
   `Index` und die Kategorie-Hub-Tiddler `Person`, `Location`, `Organisation`, `Event`,
   `Campaign`, ... (Shadows aus `dndwiki-core`).
+- **Orte-Hierarchie (Ober-/Unterort):** über das Feld `location` („liegt in“). Die Orte des
+  Abenteuers liegen in der `Schwertküste`, `Skyreach Castle` ist eine eigene Wurzel. Tags
+  drücken keine Orte aus.
 - **Spielerstufe:** Body von `PlayerLevel.tid`.
 - **Offene Plot-Fäden:** Suche nach dem Offene-Punkte-Snippet (`@@.tc-tiddler-frame`) in
   `Event`-Tiddlern.
