@@ -9,7 +9,7 @@ echten Stand immer live aus den Tiddlern lesen.
 
 **Tyranny of Dragons** - offizielles WotC-D&D-Abenteuer (Hoard of the Dragon Queen +
 The Rise of Tiamat), gespielt auf Deutsch (Wiki-Sprache `de-DE`). Setting: Forgotten Realms
-(Sword Coast), Kalender von Harptos über das Plugin `dndwiki-forgottenrealms`.
+(Sword Coast), Kalender von Harptos über das Plugin `tiddlyrpg-setting-forgottenrealms`.
 
 ## Tisch-Meta (steht NICHT in Tiddlern)
 
@@ -34,7 +34,7 @@ Wer welche Figur spielt, steht im Feld `player` der Figuren (siehe unten), nicht
   einzelne Spieler kennen, trägt den Tag `Secret` mit ihren Figuren; Teile eines Texts
   werden mit `<<secret "Figur">>` bzw. `<$secret for="Figur">…</$secret>` gesperrt. Die
   veröffentlichte Fassung bietet die DM-Sicht nicht an (kein
-  `$:/config/dndwiki/view/dm-published`). Reine Render-Bequemlichkeit, kein Zugriffsschutz -
+  `$:/config/tiddlyrpg/view/dm-published`). Reine Render-Bequemlichkeit, kein Zugriffsschutz -
   das Repo ist öffentlich.
 - **Kampagnenspezifische Ordner/Assets:** <!-- aktuell keine zusätzlichen
   Unterordner unter images/ -->
@@ -55,7 +55,7 @@ oder aus dieser Datei planen:**
 
 - **Fraktionen / Orte / NPCs:** Tiddler mit dem jeweiligen Typ-Tag. Startpunkte:
   `Index` und die Kategorie-Hub-Tiddler `Person`, `Location`, `Organisation`, `Event`,
-  `Campaign`, ... (Shadows aus `dndwiki-core`).
+  `Campaign`, ... (Shadows aus `tiddlyrpg-core`).
 - **Orte-Hierarchie (Ober-/Unterort):** über das Feld `location` („liegt in“). Die Orte des
   Abenteuers liegen in der `Schwertküste`, `Skyreach Castle` ist eine eigene Wurzel. Tags
   drücken keine Orte aus.
