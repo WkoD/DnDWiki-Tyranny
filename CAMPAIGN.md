@@ -9,7 +9,7 @@ echten Stand immer live aus den Tiddlern lesen.
 
 **Tyranny of Dragons** - offizielles WotC-D&D-Abenteuer (Hoard of the Dragon Queen +
 The Rise of Tiamat), gespielt auf Deutsch (Wiki-Sprache `de-DE`). Setting: Forgotten Realms
-(Sword Coast), Kalender von Harptos und Münzen von Faerûn über das Plugin
+(Sword Coast), Kalender von Harptos und Münzen der Forgotten Realms über das Plugin
 `tiddlyrpg-setting-forgottenrealms`. Regelsystem D&D 5e, Regeln von 2014 (Plugin
 `tiddlyrpg-ruleset-dnd5e2014`).
 
