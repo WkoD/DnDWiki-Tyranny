@@ -15,9 +15,8 @@ The Rise of Tiamat), gespielt auf Deutsch (Wiki-Sprache `de-DE`). Setting: Forgo
 
 **Regelsprache** (Control-Panel → Einstellungen → TiddlyRPG → Regelwerk Einstellungen und
 Kampagnenwelt Einstellungen): Regelbegriffe erscheinen englisch wie im Regelbuch am Tisch (ft,
-lb, d6, WIS), ebenso die Münzen (gp); nur Monats- und Festnamen deutsch (Wiki-Sprache);
-geschrieben wird englisch. Eine Zahl ohne Einheit in `<<unit>>` ist
-also Fuß, Pfund oder Meile.
+lb, d6, WIS), ebenso die Münzen (gp); nur Monats- und Festnamen deutsch (Wiki-Sprache).
+Zahlen stehen in `<<unit>>` immer mit Einheit, so wie die Quelle sie nennt (`<<ft 60 range>>`).
 
 ## Tisch-Meta (steht NICHT in Tiddlern)
 
