@@ -16,7 +16,7 @@ The Rise of Tiamat), gespielt auf Deutsch (Wiki-Sprache `de-DE`). Setting: Forgo
 **Regelsprache** (Control-Panel → Einstellungen → TiddlyRPG → Regelwerk Einstellungen und
 Kampagnenwelt Einstellungen): Regelbegriffe erscheinen englisch wie im Regelbuch am Tisch (ft,
 lb, d6, WIS), ebenso die Münzen (gp); nur Monats- und Festnamen deutsch (Wiki-Sprache).
-Zahlen stehen in `<<unit>>` immer mit Einheit, so wie die Quelle sie nennt (`<<unit "60 ft" range>>`).
+Zahlen stehen in `<<unit>>` immer mit Einheit, so wie die Quelle sie nennt (`<<unit "60 ft" kind:"range">>`).
 
 ## Tisch-Meta (steht NICHT in Tiddlern)
 
@@ -30,7 +30,7 @@ Wer welche Figur spielt, steht im Feld `player` der Figuren (siehe unten), nicht
   Ergänzung an das jeweilige Ereignis-Tiddler (Tag `Event`) angehängt - ein
   Ereignis-Tiddler kann mehrere In-World-Zeitpunkte sammeln: die Daten stehen im Feld
   `date`, jeder Abschnitt im Text beginnt mit `<<date>>` (optional mit Beschriftung
-  `<<date "…">>`). Die Spielerfiguren, die dabei waren, stehen als Tags am Ereignis.
+  `<<date label:"…">>`). Die Spielerfiguren, die dabei waren, stehen als Tags am Ereignis.
 - **Offene Punkte/Plot-Fäden:** das Snippet „Offene Punkte“ (`open-items`) wird inline in
   Ereignis-Tiddlern eingefügt (rot umrandete Callout-Box); wird
   entfernt/verkleinert, sobald der Strang aufgelöst ist. Kein zentraler Tracker.
