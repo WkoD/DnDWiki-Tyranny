@@ -34,8 +34,9 @@ Wer welche Figur spielt, steht im Feld `player` der Figuren (siehe unten), nicht
 - **Offene Punkte/Plot-Fäden:** das Snippet „Offene Punkte“ (`open-items`) wird inline in
   Ereignis-Tiddlern eingefügt (rot umrandete Callout-Box); wird
   entfernt/verkleinert, sobald der Strang aufgelöst ist. Kein zentraler Tracker.
-- **Karten zu Orten:** keine Unter-Tiddler. Das Kartenbild steht im Feld `map` des Orts
-  (Bild aus `images/map/`) und erscheint im Ort als Tab „Karte“.
+- **Karten zu Orten:** keine Unter-Tiddler. Die Karten stehen im Feld `map` des Orts (Bilder
+  aus `images/map/`, ab zwei Karten je ein Reiter mit dem Dateinamen) und erscheinen im Ort
+  vor den Spots.
 - **Spieler-Sichtbarkeit:** Am Tisch wird über den Knopf „Sicht“ (Sidebar) zwischen der
   öffentlichen Sicht, der Sicht eines Spielers und der DM-Sicht gewechselt. Was nur
   einzelne Spieler kennen, trägt den Tag `Secret` mit ihren Figuren; Teile eines Texts
