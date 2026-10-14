@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 * Abenteurer finden [[Schloss Naerytar]] tief im Sumpf
 
-<img src="images/event/011.1 - Castle Naertytar Ground Floor.png" />
+<<image "011.1 - Castle Naertytar Ground Floor.png">>
 
 * Allianz aus Froschfolk und Echsenfolk unter der Führung vom [[Drachenkult]]
 * Echsenfolk wird durch Frösche schikaniert und Abenteurer können [[Longtooth]] und [[Snapjaw]] überzeugen, ihnen zu helfen
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 * zusammen mit den Echsen und [[Jamna Gleamsilver]] besiegen die Abenteurer die Anführer des [[Drachenkult]]s Dralmorrer Borngray und vom Froschfolk Pharblex Spattergoo
 * ein Teleporter wird in den Höhlen unterhalb der Festung gefunden, durch welchen [[Rezmir]] und [[Azbara Jos]] zusammen mit den gestohlenen Schätzen geflohen sind
 
-<img src="images/event/011.2 - Castle Naertytar Underground.png" />
+<<image "011.2 - Castle Naertytar Underground.png">>
 
 * die Abenteurer können von [[Jamna Gleamsilver]] überzeugt werden, mit ihr die Verfolgung aufzunehmen
 * die [[Koboldhorde]] soll ihnen folgen, sobald sie die Schätze aus der Festung geborgen hat

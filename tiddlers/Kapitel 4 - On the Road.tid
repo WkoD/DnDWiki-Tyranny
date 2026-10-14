@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 
 <<date>>
 
-<img src="images/event/008 - Roadside Hospitality.png" />
+<<image "008 - Roadside Hospitality.png">>
 
 * Abenteurer bekamen ein Schreiben von [[Tarbaw Nighthill]], dass ihre Verdienste um [[Greenest]] bestätigt
 * Reise nach [[Elturel]]

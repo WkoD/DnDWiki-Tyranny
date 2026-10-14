@@ -7,9 +7,7 @@ type: text/vnd.tiddlywiki
 
 <<date>>
 
-<img src="images/event/002 - Stragglers.png" />
-<img src="images/event/003 - Rearguard.png" />
-<img src="images/event/004 - Raider Camp.png" />
+<<image "002 - Stragglers.png, 003 - Rearguard.png, 004 - Raider Camp.png">>
 
 * [[Nesim Waladra]] kam nach [[Greenest]] und erzählte von seinem gefangenen Meister [[Leosin Erlanthar]]
 * Abenteurer infiltrierten das Camp des [[Drachenkult]]s

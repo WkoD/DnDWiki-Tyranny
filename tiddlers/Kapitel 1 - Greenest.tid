@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 
 <<date>>
 
-<img src="images/event/001 - Greenest.png" />
+<<image "001 - Greenest.png">>
 
 * [[Greenest]] wurde vom [[Drachenkult]] attackiert
 * Abenteurer retteten [[Cuth Swift]], [[Eadyan Falconmoon]], [[Linan Swift]]
