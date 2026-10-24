@@ -67,7 +67,7 @@ oder aus dieser Datei planen:**
 - **Orte-Hierarchie (Ober-/Unterort):** über das Feld `location` („liegt in“). Die Orte des
   Abenteuers liegen in der `Schwertküste`, `Skyreach Castle` ist eine eigene Wurzel. Tags
   drücken keine Orte aus.
-- **Spielerstufe:** Body von `PlayerLevel.tid`.
+- **Spielerstufe:** das Feld `xp` jeder Spielfigur; die Stufe ergibt sich daraus.
 - **Offene Plot-Fäden:** der Hub `Quest` (auch auf `Campaign`): Quests und Gerüchte mit ihrem
   jüngsten Marker; die Seite jedes Quests zeigt Planung und Verlauf.
 - **Kampagnenstruktur / Handlungsbögen (Kapitel des Abenteuers):** Ereignisse, an denen eine
