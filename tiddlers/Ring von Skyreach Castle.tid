@@ -1,8 +1,11 @@
+category: ring
 created: 20241104165402629
-modified: 20241104165447926
+modified: 20261024103120721
 owner: Miles
-tags: Artifact
+rarity: rare
+recharge-on: long-rest
+tags: Artifact Equipment
 title: Ring von Skyreach Castle
 type: text/vnd.tiddlywiki
 
-* erlaubt einmal pro Tag eine Teleportation zum Teleportzirkel in [[Skyreach Castle]]
+<<effect "Teleportation">> Einmal am Tag konnte sich der Träger zum Teleportationskreis in [[Skyreach Castle]] teleportieren.

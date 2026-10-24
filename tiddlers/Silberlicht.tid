@@ -1,8 +1,14 @@
+base: Scimitar
+bonus: +1
+category: weapon, martial, melee, finesse, light, sword
 created: 20210324152958555
-modified: 20210324153108459
+damage: 1d6 slashing
+modified: 20261024103120721
 owner: Recuro
-tags: Artifact
+rarity: uncommon
+tags: Artifact Equipment
 title: Silberlicht
 type: text/vnd.tiddlywiki
+weight: 3 lb
 
-Ein +1 Scimitar, den [[Recuro]] von dem Abenteurer [[Harnan]] aus [[Greenest]] bekommen hat, nach dem die Abenteurer seine Silbertassen zurückgebracht hatten.
+Ein Scimitar, den [[Recuro]] von dem Abenteurer [[Harnan]] aus [[Greenest]] bekam, nachdem die Abenteurer seine Silbertassen zurückgebracht hatten.
