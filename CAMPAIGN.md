@@ -62,7 +62,7 @@ Wer welche Figur spielt, steht im Feld `player` der Figuren (siehe unten), nicht
 oder aus dieser Datei planen:**
 
 - **Fraktionen / Orte / NPCs:** Tiddler mit dem jeweiligen Typ-Tag. Startpunkte:
-  `Index` und die Kategorie-Hub-Tiddler `Person`, `Location`, `Organisation`, `Event`,
+  `Index` und die Hubs `Person`, `Location`, `Organisation`, `Event`,
   `Campaign`, ... (Shadows aus `tiddlyrpg-core`).
 - **Orte-Hierarchie (Ober-/Unterort):** über das Feld `location` („liegt in“). Die Orte des
   Abenteuers liegen in der `Schwertküste`, `Skyreach Castle` ist eine eigene Wurzel. Tags
